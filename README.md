@@ -1,5 +1,6 @@
 # Shazam
 
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg)
 
 When anyone wants to watch a movie and doesn’t know what to watch, they would want to check the trailers of some trending movies around them or the top rated movies of all time. Shazam is a web portal similar to Netflix where users can watch trailers of various movies. Users can also rate the youtube trailers. Users will be given a choice to watch the trending videos and highly rated movies through filters across genres. Shazam is deployed on AWS and comprises of various technologies like EC2, DynamoDB, ElasticSearch, Lambdas, SQS, Python, Node.js, PySpark.
